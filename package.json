@@ -1,0 +1,24 @@
+{
+  "name": "gestor-maternal-abc",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FranEstudillo/gestor-maternal-abc.git"
+  },
+  "keywords": [
+    "crud",
+    "node",
+    "js"
+  ],
+  "author": "Francisco Estudillo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FranEstudillo/gestor-maternal-abc/issues"
+  },
+  "homepage": "https://github.com/FranEstudillo/gestor-maternal-abc#readme",
+  "description": ""
+}
